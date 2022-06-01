@@ -6,6 +6,17 @@ import (
 	"os"
 )
 
+
+
+
+
+
+
+
+
+//"check"
+
+
 type Generated struct {
 	Email     string          `json:"email"`
 	EmailCc   string          `json:"email_cc"`
